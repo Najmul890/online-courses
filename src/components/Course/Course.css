@@ -1,0 +1,18 @@
+.course-container{
+    display: grid;
+    grid-template-columns: 85% 15%;
+    padding: 25px 40px;
+    gap: 30px;
+}
+.course-item-container{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 20px;
+    
+    
+    
+}
+
+
+
+

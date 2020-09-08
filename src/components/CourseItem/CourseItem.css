@@ -1,0 +1,13 @@
+.course-details p{
+   font-size: 20px;
+}
+.course-details h4{
+    font-size: 25px;
+}
+.course-details{
+    border: 1px solid lightgray;
+    padding:20px 10px;
+}
+.course-details h2{
+    color: lightseagreen;
+}

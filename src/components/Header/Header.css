@@ -1,0 +1,10 @@
+.header-info{
+    text-align: center;
+    border-bottom: 2px solid lightgray;
+    padding: 10px 0;
+
+}
+.header-info h2{
+    font-size: 30px;
+    color: lightseagreen;
+}
